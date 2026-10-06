@@ -1,0 +1,8 @@
+MODEL_INFO.txt
+The trained model was not uploaded because of GitHub file size limits.
+
+To recreate the model:
+
+1. Open model_training.ipynb
+2. Run all cells
+3. A new disaster_model.pkl file will be generated automatically.
